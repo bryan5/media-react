@@ -18,6 +18,21 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Soft Shoes",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Metal Chair",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Generic Concrete Shirt",
+      "id": 13
     }
   ],
   "photos": []
